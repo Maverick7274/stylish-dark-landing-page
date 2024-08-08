@@ -8,8 +8,8 @@ import { Footer } from "@/Components/Footer";
 const dmSans = DM_Sans({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-	title: "Dark SaaS Landing Page",
-	description: "This is a free SaaS landing page kit.",
+	title: "Stylish Dark Landing Page",
+	description: "Neelanjan's Stylish Dark landing page.",
 };
 
 export default function RootLayout({
